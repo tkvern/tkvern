@@ -27,7 +27,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Text   6 mins          █████████████████░░░░░░░░   67.74 % 
-HTML   3 mins          ████████░░░░░░░░░░░░░░░░░   32.26 % 
+JavaScript   2 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.20 % 
+Markdown     2 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.13 % 
+Stylus       1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+HTML         47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Other        46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 <!--END_SECTION:waka-->
