@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML         1 hr 32 mins    █████████████▓░░░░░░░░░░░   54.42 % 
-JSON         32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.98 % 
+YAML         1 hr 32 mins    █████████████▓░░░░░░░░░░░   54.41 % 
+JSON         32 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.99 % 
 JavaScript   23 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 Bash         10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 Vue.js       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
