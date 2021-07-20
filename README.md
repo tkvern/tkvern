@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   4 mins          ██████████████████████░░░   88.43 % 
 ```
 <!--END_SECTION:waka-->
