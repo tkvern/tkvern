@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-YAML         52 mins         █████████▓░░░░░░░░░░░░░░░   38.39 % 
-TypeScript   38 mins         ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-JavaScript   23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.13 % 
-JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Git Config   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+YAML         51 mins         ██████████▒░░░░░░░░░░░░░░   40.75 % 
+TypeScript   37 mins         ███████▒░░░░░░░░░░░░░░░░░   29.50 % 
+JavaScript   21 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Git Config   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 ```
 <!--END_SECTION:waka-->
