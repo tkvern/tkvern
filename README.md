@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Git Config   6 mins          ████████████████░░░░░░░░░   64.24 % 
-TypeScript   2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.15 % 
-JSON         1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
