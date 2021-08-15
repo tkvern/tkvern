@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     28 mins         ██████████████████████▓░░   91.11 % 
-JSON         1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Markdown     51 mins         ███████████████████████░░   92.28 % 
+Other        1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+JSON         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 <!--END_SECTION:waka-->
