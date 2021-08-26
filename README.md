@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     20 mins         ██████████████▓░░░░░░░░░░   58.15 % 
-YAML         9 mins          ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Stylus       3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Markdown     20 mins         ████████████████████▒░░░░   80.94 % 
+Stylus       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
 ```
 <!--END_SECTION:waka-->
