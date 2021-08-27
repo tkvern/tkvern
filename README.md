@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     20 mins         ████████████████████▒░░░░   80.94 % 
-Stylus       3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
