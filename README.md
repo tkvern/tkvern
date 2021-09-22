@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown   5 mins          ███████████████████████▓░   94.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
