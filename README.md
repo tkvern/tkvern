@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   10 mins         ████████████▓░░░░░░░░░░░░   50.17 % 
-HTML         5 mins          ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-JSON         4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
